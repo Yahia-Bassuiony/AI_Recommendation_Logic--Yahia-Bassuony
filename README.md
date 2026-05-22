@@ -59,6 +59,14 @@ python recommender.py
 
 ---
 
+## Results Screenshot
+
+
+
+![Recommendation Results](results_screenshot.png)
+
+---
+
 ## Example Output
 
 ```
