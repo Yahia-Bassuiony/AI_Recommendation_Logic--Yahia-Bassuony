@@ -109,7 +109,7 @@ Cosine    → correct match based on direction ✅
 
 ## Author
 
-**Yaya** — NLP Engineer & AI Graduate
+**Yahia** — NLP Engineer & AI Graduate
 Faculty of Artificial Intelligence, Kafr El-Sheikh University (2023)
 
 ---
