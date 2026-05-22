@@ -1,0 +1,11 @@
+job_role,skills
+Data Scientist,python sql machine_learning data_analysis statistics numpy pandas
+ML Engineer,python machine_learning deep_learning tensorflow pytorch numpy
+NLP Engineer,python nlp transformers huggingface pytorch text_processing
+Backend Developer,python java sql apis rest_api docker databases
+DevOps Engineer,docker kubernetes aws cloud ci_cd linux automation
+Data Analyst,sql excel python data_analysis visualization power_bi tableau
+Cloud Architect,aws azure cloud docker kubernetes infrastructure
+Frontend Developer,javascript react css html ui_ux nodejs
+Cybersecurity Engineer,networking security linux python encryption firewalls
+AI Research Scientist,python mathematics deep_learning research statistics pytorch
